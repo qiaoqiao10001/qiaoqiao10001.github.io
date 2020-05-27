@@ -1,7 +1,7 @@
 # Landscape
 
 A brand new default theme for [Hexo].
-740cc539f5e9d4a40ca2ab01c11a5998c14f46ff
+
 - [Preview](http://hexo.io/hexo-theme-landscape/)
 
 ## Installation
